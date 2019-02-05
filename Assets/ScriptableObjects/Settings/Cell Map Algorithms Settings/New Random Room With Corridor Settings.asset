@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edc03781182bcee4caac9ae070a8b6e1, type: 3}
+  m_Name: New Random Room With Corridor Settings
+  m_EditorClassIdentifier: 
+  autoUpdate: 0
+  useFixedSeed: 0
+  seed: seed
+  roomPlacementTriesCount: 15
+  tryToGenerateSpecificAmountOfRooms: 0
+  amountOfRoomsToGenerate: 0
+  timesToRestartSpawn: 0
+  roomsMinHeight: 3
+  roomsMinWidth: 3
+  roomsMaxHeight: 12
+  roomsMaxWidth: 20
+  canShareSingleWall: 0
+  hasCleanup: 0
+  minCorridorLength: 0
+  maxCorridorLength: 5
+  canHaveMultipleCorridors: 0
+  chanceToHaveMultipleCorridors: 0

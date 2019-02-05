@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd633f25aeaab6849a1c0f226b82a023, type: 3}
+  m_Name: New Height Map Settings
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  noiseSettings:
+    useFixedSeed: 0
+    seed: seed
+    normalizeMode: 1
+    numberOfOctaves: 5
+    scale: 50
+    persistance: 0.752
+    lacunarity: 2
+    octavesOffset: {x: 0, y: 0}
+    isEachOctaveHasRandomShift: 1
+    enableAbsMod: 0
+    absSubtrahend: 0.5
+    absMultiplier: 2
+    enablePolarCoordinatesMode: 0
+    polarScale: 1.8
+    polarRadius: 1
+  octavesSettings:
+    normalizeMode: 1
+    scale: 15
+    octavesOffset: {x: 0, y: -10}
+    octavesSettings:
+    - seed: 13.94
+      frequency: 2
+      amplitude: 2
+    - seed: 7.76
+      frequency: 0.5
+      amplitude: 5
+    - seed: 2.6
+      frequency: 1
+      amplitude: 1.5
+    enableAbsMod: 0
+    absSubtrahend: 0.5
+    absMultiplier: 2
+    enablePolarCoordinatesMode: 0
+    polarScale: 1.8
+    polarRadius: 1
+  boxFilteredSettings:
+    useFixedSeed: 1
+    seed: seed
+    clustersCount: 40
+    clusterValue: 1
+    heightClusterMinWidth: 3
+    heightClusterMinHeight: 3
+    heightClusterMaxWidth: 3
+    heightClusterMaxHeight: 3
+    filterSize: 1
+    filterIterationsCount: 5
+    usePredefinedIterations: 0
+    iterationsSettings:
+    - spawnClusters: 1
+      clustersCount: 20
+      clusterValue: 1
+      heightClusterMinWidth: 1
+      heightClusterMinHeight: 1
+      heightClusterMaxWidth: 1
+      heightClusterMaxHeight: 1
+      applyFilter: 1
+      filterSize: 1
+    - spawnClusters: 1
+      clustersCount: 40
+      clusterValue: 0.8
+      heightClusterMinWidth: 3
+      heightClusterMinHeight: 3
+      heightClusterMaxWidth: 3
+      heightClusterMaxHeight: 3
+      applyFilter: 1
+      filterSize: 1
+    - spawnClusters: 0
+      clustersCount: 0
+      clusterValue: 1
+      heightClusterMinWidth: 3
+      heightClusterMinHeight: 3
+      heightClusterMaxWidth: 3
+      heightClusterMaxHeight: 3
+      applyFilter: 1
+      filterSize: 2
+  applyingNoiseType: 0
+  applyFalloffMap: 0
+  heightMultiplier: 5
+  heightCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0

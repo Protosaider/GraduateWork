@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8835176a8813be41a4635c478ee3d56, type: 3}
+  m_Name: New Random Worms Settings
+  m_EditorClassIdentifier: 
+  autoUpdate: 0
+  useFixedSeed: 0
+  seed: seed
+  chanceToCreateRectangularRoom: 0
+  allowTurnAround: 0
+  chanceToTurnAround: 0.08
+  chanceToTurn: 0.14
+  chanceToCreateWorm: 0
+  increaseDieChanceBy: 0.15
+  initialChanceToDie: 0
+  cellsToCreateCount: 200
+  wormsCount: 1

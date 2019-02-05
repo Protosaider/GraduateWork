@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c36cb14aefe1df546a669728aa0ee568, type: 3}
+  m_Name: New Room Grid Settings
+  m_EditorClassIdentifier: 
+  autoUpdate: 0
+  useFixedSeed: 1
+  seed: seed
+  gridWidth: 5
+  gridHeight: 4
+  isSquareShaped: 0
+  roomWidth: 10
+  roomHeight: 10
+  roomWidthCenter: 4
+  roomHeightCenter: 4
+  doorSpawnChance: 0
+  roomCount: 8
+  isSpawnPointCentered: 0
+  initialRoomSpawnPoint:
+    x: 2
+    y: 0
+    z: 1

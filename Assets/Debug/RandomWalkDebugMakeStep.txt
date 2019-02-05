@@ -1,0 +1,1042 @@
+
+Inside MakeStep countToChangePath = 0 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":14}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":14}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":14}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":14}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":14}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":14}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 2 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":13}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":12}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":11}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep countToChangePath = 0 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":10}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":10}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":11}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":12}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":13}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":14}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":16}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":17}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":18}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":18}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":18}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":18}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":18}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 0 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":18}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":18}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":18}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":18}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":18}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":18}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":18}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":18}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":18}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":18}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":18}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":18}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":17}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":16}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":14}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":13}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":12}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":11}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":7}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":7}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":15}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":19, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep countToChangePath = 3 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":15}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":15}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":15}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":15}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":15}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":15}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":15}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":15}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":15}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":15}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":14}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":13}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":12}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":11}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":11}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":11}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":11}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":11}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":11}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":2}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":2}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":2}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":2}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":2}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":2}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":2}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":2}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":2}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":2}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":2}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":1}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep countToChangePath = 2 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":19, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":1}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":1}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":1}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":1}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":1}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep countToChangePath = 1 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep countToChangePath = 0 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":15}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":14}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":13}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":12}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":11}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":11}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":11}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":19, "y":0, "z":11}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep countToChangePath = 3 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":11}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":11}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":11}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":11}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":11}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":11}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":11}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":11}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":10}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":9}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":8}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":7}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":7}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":7}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":7}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":7}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":7}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":7}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":7}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":7}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":7}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":7}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":6}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":6}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":6}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":6}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":6}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":6}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":6}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":6}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":6}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":6}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":7}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":7}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":5}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":4}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":3}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":2}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":1}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep countToChangePath = 2 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 3 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":1}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":3}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":7}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":7}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":10}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":10}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":10}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":10}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":7}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":6}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":6}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 2 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":6}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":6}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":6}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":8}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":11}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":12}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":11}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":8}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":8}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":8}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":8}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":8}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":8}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":8}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":7}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":6}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep countToChangePath = 2 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 0 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":1}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":16}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":16}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":16}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":16}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":16}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":16}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":16}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":16}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":16}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":17}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":18}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep countToChangePath = 3 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":15}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":16}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":17}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":18}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep countToChangePath = 0 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 3 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 4 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 5 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 0 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 3 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":3}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":3}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":3}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":2}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":1}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep countToChangePath = 3 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":1}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":3}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":4}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":4}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":19, "y":0, "z":4}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep countToChangePath = 2 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":19, "y":0, "z":3}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":19, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":19, "y":0, "z":1}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":19, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":13}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":13}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":13}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":13}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":13}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":12}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":11}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":10}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":9}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":9}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":9}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":9}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":19, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep countToChangePath = 3 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":18, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":17, "y":0, "z":9}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 2 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":14}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":13}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":12}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":11}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":8}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":8}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":8}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":14}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":16}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":17}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":18}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":17}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":16}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":15}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":14}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":13}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":12}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":11}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":10}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":10}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":8}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":8}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":8}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":8}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":8}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":8}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":8}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":18}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep countToChangePath = 3 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 3 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":19}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":19}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":2}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":2}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":3}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":4}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":5}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":6}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":6}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":6}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":5}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":4}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":3}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":2}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":2}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":2}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":6}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":9, "y":0, "z":6}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":6}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":6}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":6}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":6}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":7}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":10}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":10}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":10}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":7}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":6}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":14}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":15}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":16}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":17}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":17}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":17}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":17}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 3 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":17}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":17}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":17}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":17}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":17}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":17}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":17}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":17}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":8, "y":0, "z":18}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":11}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":12}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":11}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":10}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":9}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":8}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":8}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":8}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":7, "y":0, "z":3}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":3}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":2}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":1}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep countToChangePath = 3 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":3, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":4, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":5, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = East is outsideFalse
+Inside MakeStep countToChangePath = 0 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":1}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":6, "y":0, "z":2}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":8}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":2, "y":0, "z":9}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":1, "y":0, "z":9}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":9}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 2 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":10}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":11}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":12}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":13}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":0, "y":0, "z":12}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":13}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":12}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":11}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":12}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":13}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":14}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":15}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":15}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":14, "y":0, "z":15}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":16, "y":0, "z":19}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":18}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":17}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":16}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":15}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":16}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":17}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":18}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":19}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = North is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":18}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep Walker Coordinate{"x":15, "y":0, "z":17}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = South is outsideFalse
+Inside MakeStep countToChangePath = 2 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep countToChangePath = 0 cycles count = 2 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":13, "y":0, "z":0}
+Inside MakeStep countToChangePath = 1 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":12, "y":0, "z":0}
+Inside MakeStep countToChangePath = 2 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":0}
+Inside MakeStep countToChangePath = 3 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep Walker Coordinate{"x":10, "y":0, "z":0}
+Inside MakeStep countToChangePath = 4 cycles count = 0 dir = West is outsideFalse
+Inside MakeStep countToChangePath = 0 cycles count = 1 dir = Nowhere is outsideTrue
+Inside MakeStep Walker Coordinate{"x":11, "y":0, "z":0}
